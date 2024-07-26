@@ -95,7 +95,6 @@ span{
 }
  .nav-cart{
     font-weight:700;
-    
 } 
 .nav-cart i{
     font-size:30px;
@@ -116,8 +115,10 @@ span{
 .panel-opps{
     width:1134px;
     margin-right:195px;
+    position: relative;
+    left:60px;
 }
-.panel-all{
+.panel-all-border{
     position:absolute;
     left:15px;
     font-size:20px;
@@ -224,4 +225,3 @@ ul a{
 .copyright{
     padding-top: 5px;
 }
-
